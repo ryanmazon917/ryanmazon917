@@ -1,4 +1,4 @@
-### Hello, I'm Ryan Mazon!
+## Hello, I'm Ryan Mazon!
 
 - I’m currently learning Data Science/Machine Learning
 - I’m looking to collaborate on Kaggle competitions
